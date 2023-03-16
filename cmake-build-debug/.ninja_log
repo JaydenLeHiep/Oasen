@@ -1,0 +1,13 @@
+# ninja log v5
+40	74	1677315228676381131	Osencrawler2	fd70ed6a15dfc4a4
+0	40	1677315228641685738	CMakeFiles/Osencrawler2.dir/main.c.o	5168c52dcc677f0e
+2	60	1677348283634877362	CMakeFiles/Osencrawler2.dir/main.c.o	d0a6d6a4eed27b09
+60	103	1677348283680647430	Osencrawler2	fd70ed6a15dfc4a4
+2	59	1677348338019880860	CMakeFiles/Osencrawler2.dir/main.c.o	d0a6d6a4eed27b09
+59	109	1677348338071408857	Osencrawler2	fd70ed6a15dfc4a4
+1	59	1677348431745281496	CMakeFiles/Osencrawler2.dir/main.c.o	d0a6d6a4eed27b09
+59	101	1677348431789533293	Osencrawler2	fd70ed6a15dfc4a4
+1	53	1677348449349723965	CMakeFiles/Osencrawler2.dir/main.c.o	d0a6d6a4eed27b09
+53	132	1677348449433492422	Osencrawler2	fd70ed6a15dfc4a4
+0	89	1677348457463739394	CMakeFiles/Osencrawler2.dir/main.c.o	d0a6d6a4eed27b09
+89	134	1677348457516755996	Osencrawler2	fd70ed6a15dfc4a4

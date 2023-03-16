@@ -1,0 +1,3 @@
+/Users/hieple/Desktop/ss23/c++/Oasen/cmake-build-debug/CMakeFiles/Osencrawler2.dir
+/Users/hieple/Desktop/ss23/c++/Oasen/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hieple/Desktop/ss23/c++/Oasen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
